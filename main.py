@@ -1,0 +1,1 @@
+caracter = input("Cual es el caracter ")
